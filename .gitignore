@@ -1,0 +1,6 @@
+# Name of venv
+calendarAPI
+
+# Files for authentication 
+credentials.json
+token.json
